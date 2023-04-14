@@ -1,0 +1,45 @@
+{
+    "techCompanies": [
+      {
+        "name": "Google",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/706px-Google_%22G%22_Logo.svg.png",
+        "alumni": false
+      },
+      {
+        "name": "Facebook",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/706px-Google_%22G%22_Logo.svg.png",
+        "alumni": false
+      },
+      {
+        "name": "Apple",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/706px-Google_%22G%22_Logo.svg.png",
+        "alumni": true
+      },
+      {
+        "name": "Amazon",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/706px-Google_%22G%22_Logo.svg.png",
+        "alumni": false
+      },
+      {
+        "name": "Microsoft",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/706px-Google_%22G%22_Logo.svg.png",
+        "alumni": true
+      },
+      {
+        "name": "Netflix",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/706px-Google_%22G%22_Logo.svg.png",
+        "alumni": false
+      },
+      {
+        "name": "Tesla",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/706px-Google_%22G%22_Logo.svg.png",
+        "alumni": false
+      },
+      {
+        "name": "Uber",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/706px-Google_%22G%22_Logo.svg.png",
+        "alumni": true
+      }
+    ]
+  }
+  
