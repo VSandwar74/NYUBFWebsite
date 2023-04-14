@@ -35,7 +35,7 @@ const Team = () => {
                             <span className='underline decoration-gray-500/50'>
                                 {leader.name}:
                             </span>{" "}
-                            {leader.role}r
+                            {leader.role}
                         </h4>
                         <p className='text-lg text-center md:text-left'>
                             {leader.biography}
