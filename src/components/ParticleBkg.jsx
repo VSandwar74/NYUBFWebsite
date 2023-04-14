@@ -22,14 +22,14 @@ const ParticleBkg = () => {
         options={{
           "fullScreen": {
               "enable": true,
-              "zIndex": -1
+              "zIndex": 1
           },
           "particles": {
               "number": {
                   "value": 20,
                   "density": {
                       "enable": false,
-                      "value_area": 800
+                      "value_area": 1000
                   }
               },
               "color": {
@@ -42,7 +42,7 @@ const ParticleBkg = () => {
               //     }
               // },
               "opacity": {
-                  "value": 0.8,
+                  "value": 0.6,
                   "random": false,
                   "anim": {
                       "enable": false,
@@ -96,7 +96,7 @@ const ParticleBkg = () => {
               "events": {
                   "onhover": {
                       "enable": true,
-                      "mode": ["grab"]
+                      "mode": ["repulse"]
                   },
                   "onclick": {
                       "enable": false,
@@ -130,13 +130,14 @@ const ParticleBkg = () => {
               }
           },
           "retina_detect": true,
-          "background": {
-              "color": "#391772",
-              "image": "",
-              "position": "50% 50%",
-              "repeat": "no-repeat",
-              "size": "cover"
-          }
+        //   "background": {
+        //       "color": "#391772",
+        //     //   "color": "transparent",
+        //       "image": "",
+        //       "position": "50% 50%",
+        //       "repeat": "no-repeat",
+        //       "size": "cover"
+        //   }
       }}
       />
   )

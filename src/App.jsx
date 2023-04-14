@@ -12,7 +12,7 @@ import ParticleBkg from './components/ParticleBkg'
 function App() {
 
   return (
-    <div className="text-white h-screen snap-y snap-mandatory overflow-y-scroll overflox-x-hidden z-0 scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/80">
+    <div className="bg-gradient-to-r from-black via-[#391772] to-black text-white h-screen snap-y snap-mandatory overflow-y-scroll overflox-x-hidden z-0 scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/80">
       <ParticleBkg />
 
       <Header/>
