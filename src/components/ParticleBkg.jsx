@@ -22,7 +22,7 @@ const ParticleBkg = () => {
         options={{
           "fullScreen": {
               "enable": true,
-              "zIndex": 1
+              "zIndex": 0
           },
           "particles": {
               "number": {
