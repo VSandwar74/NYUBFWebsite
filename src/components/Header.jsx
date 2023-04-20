@@ -1,19 +1,18 @@
-import React from 'react'
-// import { useContext } from 'react';
-// import { Web3ProviderContext } from "ethers-react";
-import { useMetaMask } from "ethers-react";
-
+import React, { useContext, useEffect } from 'react'
+import { WalletContext } from '../context/WalletContext';
+// import { Metamask } from Ionicons
 
 const Header = () => {
-  
-  const { 
-      isInstalledWallet, // Determine whether the wallet is installed
-      isConnected, // Determine whether the wallet is connected
-      connectedAccount, // Metamask current connected account
-      connectWallect // Connect metamask function
-  } = useMetaMask();
 
-  console.log(isConnected)
+  const { connectWallet, currentAccount } = useContext(WalletContext);
+  const isConnected = currentAccount != ""
+  console.log(currentAccount, isConnected)
+  console.log(connectWallet)
+  console.log(currentAccount)
+
+//   function func() {
+//     alert('trioed')
+//   }
 
   return (
     <header className="sticky top-0 p-5 px-24 flex items-start justify-between w-full z-20 xl:items-center">
@@ -24,7 +23,15 @@ const Header = () => {
             <div className="text-white">
                 <a className="p-2">Home</a>
                 <a className="p-2">Our Team</a>
-                {isConnected ? <a className="p-2">NFT Gallery</a> : <button onClick={connectWallect}> Connect! </button>}
+                {isConnected ? <button><a className="p-2">NFT Gallery</a></button> : 
+                <button 
+                    type="button" 
+                    onClick={connectWallet}
+                    className='rounded-lg p-1 mx-1 bg-white'
+                >
+                   <a className="p-2 text-[#391772]">Connect</a>
+                </button>
+                }
             </div>
         </div>
     </header>
