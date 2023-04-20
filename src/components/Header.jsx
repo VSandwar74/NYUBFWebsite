@@ -1,18 +1,10 @@
 import React, { useContext, useEffect } from 'react'
 import { WalletContext } from '../context/WalletContext';
-// import { Metamask } from Ionicons
 
 const Header = () => {
 
   const { connectWallet, currentAccount } = useContext(WalletContext);
   const isConnected = currentAccount != ""
-  console.log(currentAccount, isConnected)
-  console.log(connectWallet)
-  console.log(currentAccount)
-
-//   function func() {
-//     alert('trioed')
-//   }
 
   return (
     <header className="sticky top-0 p-5 px-24 flex items-start justify-between w-full z-20 xl:items-center">
