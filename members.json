@@ -1,0 +1,124 @@
+{
+    "leadership": [
+      {
+        "name": "Sean Balakhanei",
+        "role": "Head of Development",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "Sean Balakhanei is the head of the NYU Blockchain and Fintech Development Team. Currently a 3rd year computer science student at NYU Tandon with minors in Math and Finance. Works at Group One Trading as a Trading Analyst Intern, and is an upcoming Software Engineering Intern at Amazon."
+      },
+      {
+        "name": "Charles Chung",
+        "role": "Development Coordinator",
+        "status": "Active",
+        "image": "https://media.licdn.com/dms/image/C5603AQELdqIH8XWF4w/profile-displayphoto-shrink_800_800/0/1638469785485?e=1687392000&v=beta&t=Y0GjnZqIDhYwKdXsH9BWZ9WEMxFXj6aa0O1-eb-2O9M",
+        "biography": "Charles Chung is the Development Coordinator at NYU Blockchain and Fintech's Development Team. Having previous experience at Polgyon Labs, BitMart, and Empire Group Holdings Limited, Charles is studying Economics at NYU CAS in conjunction with a CAS minor."
+      },
+      {
+        "name": "Shreyaas Sureshbabu",
+        "role": "NFT Development Team Member",
+        "status": "Active",
+        "image": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/332001383_730055538581061_7422825300598952768_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nQhQfkQiokUAX-tEv7P&_nc_ht=scontent-lga3-2.xx&oh=00_AfD7Z63OAbTVsDGNXTt_xvhiKsMQFCLtt7rIxqGJuufp-Q&oe=644563E7",
+        "biography": "Shreyaas Sureshbabu is a Sophomore at NYU Stern studying Finance and Computer Science. Previously interened at Commvault. Procures and resells archive fashion clothes in spare time."
+      },
+      {
+        "name": "Vishakh Sandwar",
+        "role": "NFT Development Team Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Roger Li",
+        "role": "Web Development Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Yan Luo",
+        "role": "NFT Development Team Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Lora Protzman",
+        "role": "Web Development Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Sebastien Fousse",
+        "role": "Web Development Team/NFT Development Team Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Andrew Xu",
+        "role": "NFT Development Team Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Anish Palvai",
+        "role": "Smart Contract Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Varun Aravapalli",
+        "role": "Smart Contract Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Kairui Huang",
+        "role": "Smart Contract Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Ishan Poojari",
+        "role": "Smart Contract Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Dan Zhang",
+        "role": "NFT Development Team Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Iven Zuo",
+        "role": "NFT Development Team Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "James Chen",
+        "role": "Web Development Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Chenny Yun",
+        "role": "Web Development Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      }
+    ]
+  }
+  
