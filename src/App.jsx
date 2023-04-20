@@ -8,7 +8,6 @@ import StatsCard from './components/StatsCards'
 import Team from './components/Team'
 import ParticleBkg from './components/ParticleBkg'
 
-
 function App() {
 
   return (

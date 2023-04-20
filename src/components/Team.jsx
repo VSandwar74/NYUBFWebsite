@@ -4,7 +4,7 @@ import members from '../assets/members.json';
 
 const Team = () => {
 
-  console.log(members.leadership)
+//   console.log(members.leadership)
 
   return (
     <motion.div 
