@@ -16,7 +16,7 @@ const Team = () => {
 
         <div className='relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scrollbar-thin scrollbar-track-white/20 scrollbar-thumb-[#F7AB0A]/80'>
             {members.leadership.map((leader, i) => (
-                <div className='w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center p-20 md:p-44 h-screen'>
+                <div className='w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center p-20 md:p-44 h-screen' key={i}>
                     <motion.img 
                         initial={{
                             y: -300,
@@ -33,7 +33,7 @@ const Team = () => {
                     <div className='space-y-10 px-0 md:px-10 max-w-6xl'>
                         <h4 className='text-4xl font-semibold text-center'>
                             <span className='underline decoration-gray-500/50'>
-                                {leader.name}:
+                                {leader.name}
                             </span>{" "}
                             {leader.role}
                         </h4>
