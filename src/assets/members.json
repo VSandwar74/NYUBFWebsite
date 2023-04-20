@@ -1,53 +1,123 @@
 {
     "leadership": [
       {
-        "name": "John Smith",
-        "role": "CEO",
+        "name": "Sean Balakhanei",
+        "role": "Head of Development",
         "status": "Active",
         "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "John Smith is the founder and CEO of ABC Corporation. He has over 20 years of experience in the tech industry and has led the company through several successful product launches and acquisitions."
+        "biography": "Sean Balakhanei is the head of the NYU Blockchain and Fintech Development Team. Currently a 3rd year computer science student at NYU Tandon with minors in Math and Finance. Works at Group One Trading as a Trading Analyst Intern, and is an upcoming Software Engineering Intern at Amazon."
       },
       {
-        "name": "Jane Doe",
-        "role": "COO",
+        "name": "Charles Chung",
+        "role": "Development Coordinator",
         "status": "Active",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "Jane Doe is the Chief Operating Officer of ABC Corporation. She oversees the company's day-to-day operations and has been instrumental in improving efficiency and productivity across all departments."
+        "image": "https://media.licdn.com/dms/image/C5603AQELdqIH8XWF4w/profile-displayphoto-shrink_800_800/0/1638469785485?e=1687392000&v=beta&t=Y0GjnZqIDhYwKdXsH9BWZ9WEMxFXj6aa0O1-eb-2O9M",
+        "biography": "Charles Chung is the Development Coordinator at NYU Blockchain and Fintech's Development Team. Having previous experience at Polgyon Labs, BitMart, and Empire Group Holdings Limited, Charles is studying Economics at NYU CAS in conjunction with a CAS minor."
       },
       {
-        "name": "David Lee",
-        "role": "CFO",
+        "name": "Shreyaas Sureshbabu",
+        "role": "NFT Development Team Member",
         "status": "Active",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "David Lee is the Chief Financial Officer of ABC Corporation. He is responsible for managing the company's finances and has helped to secure several rounds of funding to fuel the company's growth."
+        "image": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/332001383_730055538581061_7422825300598952768_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nQhQfkQiokUAX-tEv7P&_nc_ht=scontent-lga3-2.xx&oh=00_AfD7Z63OAbTVsDGNXTt_xvhiKsMQFCLtt7rIxqGJuufp-Q&oe=644563E7",
+        "biography": "Shreyaas Sureshbabu is a Sophomore at NYU Stern studying Finance and Computer Science. Previously interened at Commvault. Procures and resells archive fashion clothes in spare time."
       },
       {
-        "name": "Sarah Johnson",
-        "role": "CTO",
+        "name": "Vishakh Sandwar",
+        "role": "NFT Development Team Member",
         "status": "Active",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "Sarah Johnson is the Chief Technology Officer of ABC Corporation. She leads the company's engineering and product development teams and has played a key role in developing the company's flagship product."
+        "image": "https://yt3.googleusercontent.com/ytc/AGIKgqPGAc8J9MRgjvxobqw-F_RH_3ISlIMYmcUPQ0KdVA=s176-c-k-c0x00ffffff-no-rj",
+        "biography": "Vishakh is a first-year at NYU studying Finance and Math with a minor in CS from Charlotte, NC. He's previously interned at Kaleido and StandardDAO and is an ex-member of the NYU B&F Case team, and the creator of this website! While not coding, he's running, playing poker and crying about the Charlotte Hornets."
       },
       {
-        "name": "Mark Wilson",
-        "role": "VP of Sales",
+        "name": "Roger Li",
+        "role": "Web Development Member",
         "status": "Active",
         "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "Mark Wilson is the Vice President of Sales at ABC Corporation. He has over a decade of experience in sales and marketing and has been instrumental in expanding the company's customer base."
+        "biography": "filler bio"
       },
       {
-        "name": "Lisa Chen",
-        "role": "VP of Marketing",
+        "name": "Yan Luo",
+        "role": "NFT Development Team Member",
         "status": "Active",
         "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "Lisa Chen is the Vice President of Marketing at ABC Corporation. She is responsible for developing and executing the company's marketing strategy and has helped to increase brand awareness and drive customer engagement."
+        "biography": "filler bio"
       },
       {
-        "name": "Tom Brown",
-        "role": "VP of Operations",
+        "name": "Lora Protzman",
+        "role": "Web Development Member",
         "status": "Active",
         "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "Tom Brown is the Vice President of Operations at ABC Corporation. He oversees the company's supply chain and logistics operations and has helped to streamline processes and reduce costs."
+        "biography": "filler bio"
+      },
+      {
+        "name": "Sebastien Fousse",
+        "role": "Web Development Team/NFT Development Team Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Andrew Xu",
+        "role": "NFT Development Team Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Anish Palvai",
+        "role": "Smart Contract Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Varun Aravapalli",
+        "role": "Smart Contract Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Kairui Huang",
+        "role": "Smart Contract Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Ishan Poojari",
+        "role": "Smart Contract Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Dan Zhang",
+        "role": "NFT Development Team Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Iven Zuo",
+        "role": "NFT Development Team Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "James Chen",
+        "role": "Web Development Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
+      },
+      {
+        "name": "Chenny Yun",
+        "role": "Web Development Member",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "filler bio"
       }
     ]
   }

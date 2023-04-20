@@ -1,0 +1,54 @@
+{
+    "leadership": [
+      {
+        "name": "John Smith",
+        "role": "CEO",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "John Smith is the founder and CEO of ABC Corporation. He has over 20 years of experience in the tech industry and has led the company through several successful product launches and acquisitions."
+      },
+      {
+        "name": "Jane Doe",
+        "role": "COO",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "Jane Doe is the Chief Operating Officer of ABC Corporation. She oversees the company's day-to-day operations and has been instrumental in improving efficiency and productivity across all departments."
+      },
+      {
+        "name": "David Lee",
+        "role": "CFO",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "David Lee is the Chief Financial Officer of ABC Corporation. He is responsible for managing the company's finances and has helped to secure several rounds of funding to fuel the company's growth."
+      },
+      {
+        "name": "Sarah Johnson",
+        "role": "CTO",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "Sarah Johnson is the Chief Technology Officer of ABC Corporation. She leads the company's engineering and product development teams and has played a key role in developing the company's flagship product."
+      },
+      {
+        "name": "Mark Wilson",
+        "role": "VP of Sales",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "Mark Wilson is the Vice President of Sales at ABC Corporation. He has over a decade of experience in sales and marketing and has been instrumental in expanding the company's customer base."
+      },
+      {
+        "name": "Lisa Chen",
+        "role": "VP of Marketing",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "Lisa Chen is the Vice President of Marketing at ABC Corporation. She is responsible for developing and executing the company's marketing strategy and has helped to increase brand awareness and drive customer engagement."
+      },
+      {
+        "name": "Tom Brown",
+        "role": "VP of Operations",
+        "status": "Active",
+        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
+        "biography": "Tom Brown is the Vice President of Operations at ABC Corporation. He oversees the company's supply chain and logistics operations and has helped to streamline processes and reduce costs."
+      }
+    ]
+  }
+  

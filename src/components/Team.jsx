@@ -31,11 +31,13 @@ const Team = () => {
                         />
 
                     <div className='space-y-10 px-0 md:px-10 max-w-6xl'>
-                        <h4 className='text-4xl font-semibold text-center'>
+                        <h4 className='text-4xl font-semibold text-center flex flex-col'>
                             <span className='underline decoration-gray-500/50'>
                                 {leader.name}
                             </span>{" "}
-                            {leader.role}
+                            <span className='text-2xl font-normal italic'>
+                                {leader.role}
+                            </span>
                         </h4>
                         <p className='text-lg text-center md:text-left'>
                             {leader.biography}
