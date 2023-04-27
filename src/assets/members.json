@@ -18,7 +18,7 @@
         "name": "Shreyaas Sureshbabu",
         "role": "NFT Development Team Member",
         "status": "Active",
-        "image": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/332001383_730055538581061_7422825300598952768_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nQhQfkQiokUAX-tEv7P&_nc_ht=scontent-lga3-2.xx&oh=00_AfD7Z63OAbTVsDGNXTt_xvhiKsMQFCLtt7rIxqGJuufp-Q&oe=644563E7",
+        "image": "https://static.wixstatic.com/media/fab7e0_f8210d51362447ac87cc116b08c9840e~mv2.jpg/v1/fill/w_392,h_365,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fab7e0_f8210d51362447ac87cc116b08c9840e~mv2.jpg",
         "biography": "Shreyaas Sureshbabu is a Sophomore at NYU Stern studying Finance and Computer Science. Previously interened at Commvault. Procures and resells archive fashion clothes in spare time."
       },
       {
@@ -27,6 +27,13 @@
         "status": "Active",
         "image": "https://yt3.googleusercontent.com/ytc/AGIKgqPGAc8J9MRgjvxobqw-F_RH_3ISlIMYmcUPQ0KdVA=s176-c-k-c0x00ffffff-no-rj",
         "biography": "Vishakh is a first-year at NYU studying Finance and Math with a minor in CS from Charlotte, NC. He's previously interned at Kaleido and StandardDAO and is an ex-member of the NYU B&F Case team, and the creator of this website! While not coding, he's running, playing poker and crying about the Charlotte Hornets."
+      },
+      {
+        "name": "Varun Aravapalli",
+        "role": "Smart Contract Member",
+        "status": "Active",
+        "image": "https://media.licdn.com/dms/image/C5603AQF4STmpe3I_BQ/profile-displayphoto-shrink_800_800/0/1655166803375?e=2147483647&v=beta&t=N8OkuWEVaCPQLgjuI8ZJIXSyH8wfS5IB7eg5qCaBx0I",
+        "biography": "Varun is a junior at NYU Tandon majoring in Computer Science with minors in Math and Data Science. He's previously interned as a Data Science intern at Amnesia Media and Numina, and is an incoming SWE intern at Barclays."
       },
       {
         "name": "Roger Li",
@@ -69,13 +76,6 @@
         "status": "Active",
         "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
         "biography": "filler bio"
-      },
-      {
-        "name": "Varun Aravapalli",
-        "role": "Smart Contract Member",
-        "status": "Active",
-        "image": "https://media.licdn.com/dms/image/C5603AQF4STmpe3I_BQ/profile-displayphoto-shrink_800_800/0/1655166803375?e=2147483647&v=beta&t=N8OkuWEVaCPQLgjuI8ZJIXSyH8wfS5IB7eg5qCaBx0I",
-        "biography": "Varun is a junior at NYU Tandon majoring in Computer Science with minors in Math and Data Science. He's previously interned as a Data Science intern at Amnesia Media and Numina, and is an incoming SWE intern at Barclays."
       },
       {
         "name": "Kairui Huang",
