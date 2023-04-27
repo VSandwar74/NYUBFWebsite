@@ -16,15 +16,21 @@ const StatsCard = () => {
                             NYU BF is a unique student organization devoted to expanding students' understanding of blockchain technology and the FinTech ecosystem, as well as the legal, economic, social, and political challenges posed by these innovative technologies in the US and globally.
                         </p>
                         <ul>
-                            <li>Main item 1</li>
-                            <li>Main item 2
+                            <li>Our Community
                                 <ul>
-                                    <li>Sub item 1</li>
-                                    <li>Sub item 2</li>
-                                    <li>Sub item 3</li>
+                                    <li>817+ Instagram Followers</li>
+                                    <li>200+ Mailing List Subscribers</li>
+                                    <li>60+ Members</li>
+                                    <li>250+ Discord Users</li>
                                 </ul>
                             </li>
-                            <li>Main item 3</li>
+                            <li>LionHack 2023
+                                <ul>
+                                    <li>Over 300 students from 30 Universities across North America</li>
+                                    <li>$51,000 distributed in Prize Money</li>
+                                    <li>15 Workshops, 20 Sponsors, 40+ Industry Professionals across 3 Days</li>
+                                </ul>
+                            </li>
                         </ul>
                     </div>
 
