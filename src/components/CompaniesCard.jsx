@@ -23,6 +23,7 @@ const CompaniesCard = () => {
           {companies.techCompanies.map((company, i) => (
             <Company 
               key={i}
+              name={company.name}
               source={company.image}
               directionLeft={(i < companies.techCompanies.length/2)}
               status={company.alumni}
