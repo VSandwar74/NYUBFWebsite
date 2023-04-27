@@ -19,7 +19,7 @@ const CompaniesCard = () => {
             Hover over a company for partner or alumni status
         </h3>
 
-        <div className='grid grid-cols-4 gap-5'>
+        <div className='grid grid-cols-7 gap-5'>
           {companies.techCompanies.map((company, i) => (
             <Company 
               key={i}
