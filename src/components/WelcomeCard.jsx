@@ -13,21 +13,21 @@ const WelcomeCard = () => {
             <h3 className='uppercase tracking-[20px] text-white text-2xl'>Our Organization</h3>
                 <div className="flex flex-col py-10 px-20 rounded-l-lg w-[90%] h-fit text-center mt-4">
                     <p className="text-base">
-                        NYU BF is a unique student organization devoted to expanding students' understanding of blockchain technology and the FinTech ecosystem, as well as the legal, economic, social, and political challenges posed by these innovative technologies in the US and globally. The club consists of 3 teams: Development, Defi, and Research teams. The development works on a semester long project that develops practical web3 projects. Previous projects include a Dune Analytics dashboard to uncover insihgts about the Ethereum Merge and a NFT collection backed by BNF's unique ERC-20 token.
+                        NYU BF is a unique student organization devoted to expanding students' understanding of blockchain technology and the FinTech ecosystem, as well as the legal, economic, social, and political challenges posed by these innovative technologies in the US and globally. The club consists of 3 teams: Development, Defi, and Research teams. The development works on a semester long project that develops practical web3 projects. Previous projects include a Dune Analytics dashboard to uncover insights about the Ethereum Merge and a NFT collection backed by BNF's unique ERC-20 token.
                     </p>
                     <ul>
                         <li>Development</li>
-                        <li>Defi</li>
-                        <li>Research</li>
-                        <li>Main item 1</li>
-                        <li>Main item 2
                             <ul>
-                                <li>Sub item 1</li>
-                                <li>Sub item 2</li>
-                                <li>Sub item 3</li>
+                                <li>Spring 2023: Launching an NFT and Token project for the NYU Blockchain Community.</li>
                             </ul>
-                        </li>
-                        <li>Main item 3</li>
+                        <li>Defi</li>
+                            <ul>
+                                <li>Spring 2023: Working with Surmount AI and Qredo to explore quantitative trading frameworks for crypto assets.</li>
+                            </ul>
+                        <li>Research</li>
+                        <   ul>
+                                <li>Spring 2023: Consulting on a project with Paris Basketball to create an NFT project for their fans.</li>
+                            </ul>
                     </ul>
                 </div>
 
