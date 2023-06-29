@@ -15,7 +15,7 @@ const CompaniesCard = () => {
             Companies
         </h3>
 
-        <h3 className='absolute top-36 uppercase w-4/5 md:w-full tracking-[3px] text-white text-sm'>
+        <h3 className='absolute text-center top-36 uppercase w-4/5 md:w-full tracking-[3px] text-white text-sm'>
             Hover over a company for partner or alumni status
         </h3>
 
