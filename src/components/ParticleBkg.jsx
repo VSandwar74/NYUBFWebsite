@@ -24,7 +24,7 @@ const ParticleBkg = () => {
           },
           "particles": {
               "number": {
-                  "value": 20,
+                  "value": 15,
                   "density": {
                       "enable": false,
                       "value_area": 1000

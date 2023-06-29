@@ -29,7 +29,8 @@ const Gallery = () => {
                     <h5 className='font-semibold tracking-[10px] top-0 ml-20 mb-6' >Full Collection</h5>
                     <div className='grid grid-cols-8 gap-5 px-10 w-screen justify-around'>
                         {numbers.map((n, i) => (
-                            <img src={`src/assets/images/${n}.png`} className='scale-75'/>
+                            // <img src={`src/assets/images/${n}.png`} className='scale-75'/>
+                            <img src={`https://ipfs.io/ipfs/bafybeihw3uuveu7iqqncvcxmpe2nxf5w2projr6hjjjql72czcshkqpwsa/${n}.png`} className='scale-75'/>
                         ))}
                     </div>
                 </div>

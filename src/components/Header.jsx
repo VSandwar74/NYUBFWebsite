@@ -7,9 +7,9 @@ const Header = () => {
   const isConnected = currentAccount != ""
 
   return (
-    <header className="sticky top-0 p-5 px-24 flex items-start justify-between w-full z-20 xl:items-center">
+    <header className="sticky top-0 p-5 md:px-24 flex items-start justify-between w-full z-20 xl:items-center">
         <div className="flex flex-row justify-between w-full">
-            <div className="text-white">
+            <div className="py-1 md:p-0 text-white">
                 NYU BNF
             </div>
             <div className="text-white">
