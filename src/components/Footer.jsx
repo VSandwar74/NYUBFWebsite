@@ -18,6 +18,12 @@ const Footer = () => {
                 label='discord'
             /> */}
             <SocialIcon 
+                url="mailto:nyublockchainfintech@stern.nyu.edu"
+                fgColor='white'
+                bgColor='transparent'
+                label='emailw'
+            />
+            <SocialIcon 
                 url="https://twitter.com/nyu_bfc"
                 fgColor='white'
                 bgColor='transparent'

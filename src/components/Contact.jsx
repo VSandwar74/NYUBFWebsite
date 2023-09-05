@@ -1,0 +1,117 @@
+import React, { useState } from "react";
+import { motion } from "framer-motion";
+
+const FORM_ENDPOINT = "https://herotofu.com/start"; // TODO - update to the correct endpoint
+
+const ContactForm = () => {
+  const [submitted, setSubmitted] = useState(false);
+  const handleSubmit = (e) => {
+    e.preventDefault();
+
+    const inputs = e.target.elements;
+    const data = {};
+
+    for (let i = 0; i < inputs.length; i++) {
+      if (inputs[i].name) {
+        data[inputs[i].name] = inputs[i].value;
+      }
+    }
+
+    fetch(FORM_ENDPOINT, {
+      method: 'POST',
+      headers: {
+        Accept: 'application/json',
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(data),
+    })
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error('Form response was not ok');
+        }
+
+        setSubmitted(true);
+      })
+      .catch((err) => {
+        // Submit the form manually
+        e.target.submit();
+      });
+  };
+
+  if (submitted) {
+    return (
+      <>
+        <div className="text-2xl">Thank you!</div>
+        <div className="text-md">We'll be in touch soon.</div>
+      </>
+    );
+  }
+
+  return (
+    <motion.div 
+    initial={{ opacity: 0 }}
+    whileInView={{ opacity: 1 }}
+    transition={{ duration: 1.5 }}
+    className='h-screen relative flex overflow-hidden flex-col text-left md:flex-row max-w-full justify-evenly mx-auto items-center z-0 '>
+        <form
+        action={FORM_ENDPOINT}
+        onSubmit={handleSubmit}
+        method="POST"
+        >
+        <h3 className='uppercase tracking-[5px] md:tracking-[20px] text-white text-lg md:text-2xl mb-6'>Contact Us!</h3>
+        <div className="pt-0 mb-3 flex flex-row gap-x-2">
+            <input
+            type="text"
+            placeholder="First name"
+            name="name"
+            className="focus:outline-none focus:ring relative w-full px-3 py-3 text-sm text-gray-600 placeholder-gray-400 bg-white border-0 rounded shadow outline-none"
+            required
+            />
+            <input
+            type="text"
+            placeholder="Last name"
+            name="name"
+            className="focus:outline-none focus:ring relative w-full px-3 py-3 text-sm text-gray-600 placeholder-gray-400 bg-white border-0 rounded shadow outline-none"
+            required
+            />
+        </div>
+        <div className="pt-0 mb-3">
+            <input
+            type="email"
+            placeholder="Email"
+            name="email"
+            className="focus:outline-none focus:ring relative w-full px-3 py-3 text-sm text-gray-600 placeholder-gray-400 bg-white border-0 rounded shadow outline-none"
+            required
+            />
+        </div>
+        <div className="pt-0 mb-3">
+            <input
+            type="subject"
+            placeholder="Subject"
+            name="subject"
+            className="focus:outline-none focus:ring relative w-full px-3 py-3 text-sm text-gray-600 placeholder-gray-400 bg-white border-0 rounded shadow outline-none"
+            required
+            />
+        </div>
+        <div className="pt-0 mb-3">
+            <textarea
+            placeholder="Your message"
+            name="message"
+            className="focus:outline-none focus:ring relative w-full px-3 py-3 text-sm text-gray-600 placeholder-gray-400 bg-white border-0 rounded shadow outline-none"
+            required
+            />
+        </div>
+        <div className="pt-0 mb-3">
+            <button
+            className="active:bg-blue-600 hover:shadow-lg focus:outline-none px-6 py-3 mb-1 mr-1 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear bg-blue-500 rounded shadow outline-none"
+            type="submit"
+            >
+            Send a message
+            </button>
+        </div>
+        </form>
+    </motion.div>
+  );
+};
+
+export default ContactForm;

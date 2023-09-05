@@ -23,7 +23,14 @@ const Gallery = () => {
             <h3 className='uppercase tracking-[5px] md:tracking-[20px] text-white text-2xl'>NFT Gallery</h3>
                 <div className='flex flex-col items-start w-screen mt-4 md:mt-16 justify-around'>
                     <h5 className='font-semibold tracking-[10px] top-0 ml-4 md:ml-20 mb-6'>Your BnFTs</h5>
-                    {isConnected ? <img src={`src/assets/images/${"74"}.png`} className='h-32 w-32 object-cover ml-16'/> : <p className='flex flex-col text-center w-full'>Connect your wallet to see your NFTs! </p> }
+                    {isConnected ? 
+                    <div className='flex flex-row gap-x-2 items-center'>
+                        <img src={`src/assets/images/${"74"}.png`} className='h-32 w-32 object-cover ml-16'/> 
+                        <a className='px-4 p-2 bg-blue-400 text-white rounded-xl h-10' href='localhost:3000'>Mint a new NFT!</a>
+                    </div>
+
+                    : 
+                    <p className='flex flex-col text-center w-full'>Connect your wallet to see your NFTs! </p> }
                 </div>
                 <div className='flex flex-col items-start w-screen mt-16'>
                     <h5 className='font-semibold tracking-[10px] top-0 ml-4 md:ml-20 mb-6' >Full Collection</h5>
