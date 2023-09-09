@@ -6,9 +6,9 @@ const Home = () => {
         {/* <BackgroundCircles /> */}
         {/* Do NEXT.JS IMAGe */}
         <img 
-            className='relative rounded-full h-64 w-64 mx-auto object-cover'
-            src="src/assets/images/bnf_logo.png" 
-            alt=''/>
+            className='relative rounded-full h-64 w-64 mx-auto object-cover bg-white'
+            src="https://drive.google.com/uc?id=17sLQ4IMiInbTBcCK8rxkGEK8vbILVLAM" 
+            alt='BnF Logo'/>
         <div className='flexz-20'>
             <h2 className='top-24 uppercase tracking-[5px] lg:tracking-[20px] text-white font-bold text-4xl'>Blockchain and Fintech</h2>
             <h2 className='text-md uppercase text-white pb-2 tracking-[5px]'>New York University</h2>
