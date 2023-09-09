@@ -4,13 +4,14 @@ import Home from './screens/Home'
 import Footer from './components/Footer'
 import WelcomeCard from './components/WelcomeCard'
 import CompaniesCard from './components/CompaniesCard'
-import StatsCard from './components/StatsCards'
+import Projects from './components/Projects'
 import Team from './components/Team'
 import ParticleBkg from './components/ParticleBkg'
 import Gallery from './components/Gallery'
 import ContactForm from './components/Contact'
 import Pillars from './components/Pillars'
-import Events from './components/Events'
+import OldEvents from './components/OldEvents'
+import NewEvents from './components/NewEvents'
 
 function App() {
 
@@ -32,18 +33,22 @@ function App() {
         </section>
 
         {/* Pillars */}
-        <section id="welcome" className="snap-center">
+        <section id="pillars" className="snap-center">
           <Pillars/>
         </section>
 
         {/* Events */}
-        <section id="welcome" className="snap-center">
-          <Events/>
+        <section id="newev" className="snap-center">
+          <NewEvents/>
         </section>
 
+        <section id="oldev" className="snap-center">
+          <OldEvents/>
+        </section>
+        
         {/* Stats */}
         <section id="stats" className="snap-start">
-          <StatsCard />
+          <Projects />
         </section>
 
         {/* Companies */}

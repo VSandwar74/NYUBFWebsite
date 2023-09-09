@@ -1,10 +1,9 @@
 import React from 'react'
 import { motion } from "framer-motion";
-import events from '../assets/events.json';
+import oldevents from '../assets/oldevents.json';
 
-const Events = () => {
+const OldEvents = () => {
 
-//   console.log(members.leadership)
 
   return (
     <motion.div 
@@ -12,10 +11,33 @@ const Events = () => {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 1.5 }}
         className='h-screen relative flex overflow-hidden flex-col text-left md:flex-row max-w-full justify-evenly mx-auto items-center z-0'>
-        <h3 className='absolute top-24 uppercase tracking-[5px] md:tracking-[20px] text-white text-2xl'>Events</h3>
+        <h3 className='absolute top-24 uppercase tracking-[5px] md:tracking-[20px] text-white text-2xl'>
+            Past Events
+        </h3>
 
-        <div className='relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scrollbar-thin scrollbar-track-white/20 scrollbar-thumb-[#F7AB0A]/80'>
-            {events.events.map((event, i) => (
+        <div className='w-full text-sm md:text-lg text-center items-center md:mt-6'>
+            <ul>
+                <li>Blockchain & Fintech Bootcamp</li>
+                <li>KlimaDAO: Fighting Climate Change through DeFi</li>
+                <li>Electric Capital: VC in Web3</li>
+                <li>Women in Web3 & Fintech</li>
+                <li>An Introduction to Cryptoderivatives</li>
+                <li>Harmonic Chain: Crypto & Regulation</li>
+                <li>Binance Academy: DeFi on Binance</li>
+                <li>The Ethics of Web3</li>
+                <li>B&F Capstone</li>
+                <li>Fundamentals of Blockchain & Fintech</li>
+                <li>Curve, Gammaswap, Gamma Strategies, Premia Finance: A Tour of DeFi</li>
+                <li>The Political Economy of Crypto & Libertarian Philosophy</li>
+                <li>An Introduction to Zero-Knowledge Proofs</li>
+                <li>dYdX: An Introduction to Perpetual Futures</li>
+                <li>Marcum LLP: Essentials of Crypto Accounting</li>
+                <li>CertiK: Foundations of Smart Contract Security</li>
+            </ul>
+        </div>
+
+        {/* <div className='relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scrollbar-thin scrollbar-track-white/20 scrollbar-thumb-[#F7AB0A]/80'> */}
+            {/* {oldevents.events.map((event, i) => (
                 <div className='w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center py-20 px-5 md:px-20 md:p-44 h-screen' key={i}>
                     <motion.img 
                         initial={{
@@ -44,12 +66,12 @@ const Events = () => {
                         </p>
                     </div>
                 </div>
-            ))}
-        </div>
+            ))} */}
+        {/* </div> */}
 
         {/* <div className='w-full absolute top-[30%] bg-[#F7AB0A]/10 left-0 h-[500px] -skew-y-12'/> */}
     </motion.div>
   )
 }
 
-export default Events
+export default OldEvents

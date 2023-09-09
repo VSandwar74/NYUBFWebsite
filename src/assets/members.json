@@ -1,124 +1,88 @@
 {
-    "leadership": [
-      {
-        "name": "Sean Balakhanei",
-        "role": "Head of Development",
-        "status": "Active",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "Sean Balakhanei is the head of the NYU Blockchain and Fintech Development Team. Currently a 3rd year computer science student at NYU Tandon with minors in Math and Finance. Works at Group One Trading as a Trading Analyst Intern, and is an upcoming Software Engineering Intern at Amazon."
-      },
-      {
-        "name": "Charles Chung",
-        "role": "Development Coordinator",
-        "status": "Active",
-        "image": "https://media.licdn.com/dms/image/C5603AQELdqIH8XWF4w/profile-displayphoto-shrink_800_800/0/1638469785485?e=1687392000&v=beta&t=Y0GjnZqIDhYwKdXsH9BWZ9WEMxFXj6aa0O1-eb-2O9M",
-        "biography": "Charles Chung is the Development Coordinator at NYU Blockchain and Fintech's Development Team. Having previous experience at Polgyon Labs, BitMart, and Empire Group Holdings Limited, Charles is studying Economics at NYU CAS in conjunction with a CAS minor."
-      },
-      {
-        "name": "Shreyaas Sureshbabu",
-        "role": "NFT Development Team Member",
-        "status": "Active",
-        "image": "https://static.wixstatic.com/media/fab7e0_f8210d51362447ac87cc116b08c9840e~mv2.jpg/v1/fill/w_392,h_365,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fab7e0_f8210d51362447ac87cc116b08c9840e~mv2.jpg",
-        "biography": "Shreyaas Sureshbabu is a Sophomore at NYU Stern studying Finance and Computer Science. Previously interened at Commvault. Procures and resells archive fashion clothes in spare time."
-      },
-      {
-        "name": "Vishakh Sandwar",
-        "role": "NFT Development Team Member",
-        "status": "Active",
-        "image": "https://yt3.googleusercontent.com/ytc/AGIKgqPGAc8J9MRgjvxobqw-F_RH_3ISlIMYmcUPQ0KdVA=s176-c-k-c0x00ffffff-no-rj",
-        "biography": "Vishakh is a first-year at NYU studying Finance and Math with a minor in CS from Charlotte, NC. He's previously interned at Kaleido and StandardDAO and is an ex-member of the NYU B&F Case team, and the creator of this website! While not coding, he's running, playing poker and crying about the Charlotte Hornets."
-      },
-      {
-        "name": "Varun Aravapalli",
-        "role": "Smart Contract Member",
-        "status": "Active",
-        "image": "https://media.licdn.com/dms/image/C5603AQF4STmpe3I_BQ/profile-displayphoto-shrink_800_800/0/1655166803375?e=2147483647&v=beta&t=N8OkuWEVaCPQLgjuI8ZJIXSyH8wfS5IB7eg5qCaBx0I",
-        "biography": "Varun is a junior at NYU Tandon majoring in Computer Science with minors in Math and Data Science. He's previously interned as a Data Science intern at Amnesia Media and Numina, and is an incoming SWE intern at Barclays."
-      },
-      {
-        "name": "Roger Li",
-        "role": "Web Development Member",
-        "status": "Active",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "filler bio"
-      },
-      {
-        "name": "Yan Luo",
-        "role": "NFT Development Team Member",
-        "status": "Active",
-        "image": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/342035259_1381911629323929_1765920734236439190_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=RnVSG4R6LNsAX9bI2fw&_nc_ht=scontent-lga3-2.xx&oh=00_AfBMxtl2_BnKmI3hyLRHJQhOrX6-y78oMqSqTJu4yWwxYQ&oe=64470D4F",
-        "biography": "Yan Luo is a junior at NYU Stern studying Actuarial Science and Finance with a double major in Computer Science at CAS. She has previously worked as an actuarial and IT intern and is an incoming Risk Management summer analyst at Goldman Sachs. During her free time, she enjoys art, baking, and kickboxing!"
-      },
-      {
-        "name": "Lora Protzman",
-        "role": "Web Development Member",
-        "status": "Active",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "filler bio"
-      },
-      {
-        "name": "Sebastien Fousse",
-        "role": "Web Development Team/NFT Development Team Member",
-        "status": "Active",
-        "image": "https://media.licdn.com/dms/image/C4D03AQF8rKK-kMyjwg/profile-displayphoto-shrink_800_800/0/1620930938831?e=1687996800&v=beta&t=o9hfH7Zab1tt8Q5VMBwEl3H0W_BWatylzjDxCWpynEU",
-        "biography": "Sebastien is a 3rd year Computer Science student at NYU Tandon. Previous experience at Tictrac and preparing for a SWE internship at TD Securities. Outside of school, Seb has an interest psychology, rock climbing, and generative artwork."
-      },
-      {
-        "name": "Andrew Xu",
-        "role": "NFT Development Team Member",
-        "status": "Active",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "filler bio"
-      },
-      {
-        "name": "Anish Palvai",
-        "role": "Smart Contract Member",
-        "status": "Active",
-        "image": "https://media.licdn.com/dms/image/D5603AQG2QvAQIyYHZQ/profile-displayphoto-shrink_800_800/0/1665523290241?e=1687996800&v=beta&t=TwpdLi3p2wdbYRP_c1mZG6Fa4hkQXvRLtbpiSXy6y7s",
-        "biography": "Freshman studying Math and Computer Science interested in DeFi, trading, and research. In his free time he enjoys running, watching soccer, and traveling. "
-      },
-      {
-        "name": "Kairui Huang",
-        "role": "Smart Contract Member",
-        "status": "Active",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "filler bio"
-      },
-      {
-        "name": "Ishaan Poojari",
-        "role": "Smart Contract Member",
-        "status": "Active",
-        "image": "https://media.licdn.com/dms/image/C4E03AQEz4Wq_3X10rQ/profile-displayphoto-shrink_800_800/0/1662348028550?e=2147483647&v=beta&t=hCHSOPY9chHoyVyUNXAYRtmgR6daFurL59aQQnqp6FM",
-        "biography": "Ishaan is a first year student at NYU Tandon studying Computer Science. He is intersted in disruptive technologies such as blockchain and machine learning. Previously interned as a reinforcement learning developer at the Johns Hopkins Applied Physcis Laboratory and currently works as a computer vision intern for a robotics startup called Orangewood Labs."
-      },
-      {
-        "name": "Dan Zhang",
-        "role": "NFT Development Team Member",
-        "status": "Active",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "filler bio"
-      },
-      {
-        "name": "Iven Zuo",
-        "role": "NFT Development Team Member",
-        "status": "Active",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "filler bio"
-      },
-      {
-        "name": "James Chen",
-        "role": "Web Development Member",
-        "status": "Active",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "James Chen is a sophomore studying computer science and data science at NYU."
-      },
-      {
-        "name": "Chenny Yun",
-        "role": "Web Development Member",
-        "status": "Active",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "biography": "filler bio"
-      }
-    ]
-  }
-  
+  "leadership": [
+    {
+      "name": "Akhil Vajjhala",
+      "role": "President",
+      "biography": "Akhil is a senior at Stern pursuing Finance & Joint Minor in Math & CS and has held positions at EY and Polygon.",
+      "image": "https://media.licdn.com/dms/image/C5603AQFlMwXPfDFryA/profile-displayphoto-shrink_400_400/0/1594719561327?e=1699488000&v=beta&t=dvmROk7721ghhu5FhGXINAiL5vzw3jyrx4xWYlXLrjM"
+    },
+    {
+      "name": "Sean Balakhanei",
+      "role": "Vice President of Programs",
+      "biography": "Sean is a senior at Tandon majoring in CS with minors in Math & Finance and has experience at Group One and Amazon.",
+      "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg"
+    },
+    {
+      "name": "Uday Sapra",
+      "role": "Vice President of Events",
+      "biography": "Uday is a junior majoring in Finance & Data Science with experience at BusinessNext.",
+      "image": "https://media.licdn.com/dms/image/D4E03AQHItm8O7r-9BQ/profile-displayphoto-shrink_400_400/0/1678785306032?e=1699488000&v=beta&t=RJfEyOzaygd4DzhVLTg1-foUvd935VVpUBCdpg0lx3A"
+    },
+    {
+      "name": "Michael Wong",
+      "role": "Vice President of Partnerships",
+      "biography": "Michael is a senior majoring in Economics with a minor in Business and has experience at CertiK, Near Horizon, and Soulmynt.",
+      "image": "https://media.licdn.com/dms/image/D4E03AQHgvG0R1W5wvA/profile-displayphoto-shrink_400_400/0/1680288952468?e=1699488000&v=beta&t=ACvCi7H5PF7196GUowXvYx-AWdxSjBu0T7Wk29jOors"
+    },
+    {
+      "name": "Tyler Weiss",
+      "role": "Secretary",
+      "biography": "Tyler is a sophomore.",
+      "image": "https://media.licdn.com/dms/image/D4E03AQHACbWgiLiTYg/profile-displayphoto-shrink_400_400/0/1667450379431?e=1699488000&v=beta&t=0KyIcy9OEhHdyeMdn6-3Q3cHm2vNGJ-31sO740jC35E"
+    },
+    {
+      "name": "Anish Rane",
+      "role": "Head of Investments Program",
+      "biography": "Anish is a junior.",
+      "image": "https://media.licdn.com/dms/image/C4D03AQFh0kc8xQjFAA/profile-displayphoto-shrink_400_400/0/1642738085110?e=1699488000&v=beta&t=RRFnaTc1NEMuMxgZ88JdBvHVcmGeuIwku4d39cjEMtI"
+    },
+    {
+      "name": "Varun Aravapalli",
+      "role": "Head of Development Program",
+      "biography": "Varun is a senior majoring in Tandon CS with experience at Barclays, Numina, and Computational Geometry Research at Tandon.",
+      "image": "https://media.licdn.com/dms/image/C5603AQF4STmpe3I_BQ/profile-displayphoto-shrink_800_800/0/1655166803375?e=2147483647&v=beta&t=N8OkuWEVaCPQLgjuI8ZJIXSyH8wfS5IB7eg5qCaBx0I"
+    },
+    {
+      "name": "Vishakh Sandwar",
+      "role": "Coordinator of Development Program",
+      "biography": "Vishakh is a sophomore majoring in Math & Finance with experience at Daloopa Summer, KlannLab, and GetPupil.",
+      "image": "https://yt3.googleusercontent.com/ytc/AGIKgqPGAc8J9MRgjvxobqw-F_RH_3ISlIMYmcUPQ0KdVA=s176-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Gaby Aragundi",
+      "role": "Head of Mentorship Program",
+      "biography": "Gaby is a senior majoring in Math & CS with experience in Tax @ RSM and Auto Movers Co.",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGH2vbDQzRj7A/profile-displayphoto-shrink_800_800/0/1677880951070?e=1699488000&v=beta&t=70hVmHniFhseWoRCCUCyH6uApLsl0ciWIwn19ZTiBWQ"
+    },
+    {
+      "name": "Smit Bajaj",
+      "role": "Head of Consulting Program",
+      "biography": "Smit is a junior majoring in Sports Management & Data Science with experience at Paris Basketball, Seventy-Six Capital, and SportsTechX.",
+      "image": "https://media.licdn.com/dms/image/D4E03AQFlCty6ric6-A/profile-displayphoto-shrink_400_400/0/1690164455277?e=1699488000&v=beta&t=Tpfjjc_pQXlKge_dcfjifgWjU-f6ttWlZDyBgO7cJ1U"
+    },
+    {
+      "name": "Shreyaas Sureshbabu",
+      "role": "Marketing Director",
+      "biography": "Shreyaas is a junior majoring in Finance & CS with experience at Commvault, Arrosoft Solutions, and ML Research at Stern.",
+      "image": "https://static.wixstatic.com/media/fab7e0_f8210d51362447ac87cc116b08c9840e~mv2.jpg/v1/fill/w_392,h_365,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fab7e0_f8210d51362447ac87cc116b08c9840e~mv2.jpg"
+    },
+    {
+      "name": "Krish Sharma",
+      "role": "Marketing Coordinator",
+      "biography": "Krish is a sophomore majoring in Finance & Data Science with experience at IAN VC, TIE Delhi, and Tinkerly.",
+      "image": "https://media.licdn.com/dms/image/D4D03AQFJAWccZylblw/profile-displayphoto-shrink_400_400/0/1690442873232?e=1699488000&v=beta&t=kPGBRhxOxjL6OWOiQtrXTRjgF9DKJXkvWLxNYAgh-SE"
+    },
+    {
+      "name": "Sandra Cai",
+      "role": "Community Moderator",
+      "biography": "Sandra is a junior majoring in Finance with experience at Microsoft and LXL Capital.",
+      "image": "https://media.licdn.com/dms/image/D4E03AQFTMeNoe_HA8g/profile-displayphoto-shrink_400_400/0/1669184769011?e=1699488000&v=beta&t=W7h9-r8qohqIkdOmg3Povsa85AMkAU2tVzz2pn34ndo"
+    },
+    {
+      "name": "Ronit Kirumaki",
+      "role": "Senior Advisor",
+      "biography": "Ronit is a senior majoring in Finance & Data Science with experience at JP Morgan, Macquarie Capital, and WP Global Partners.",
+      "image": "https://media.licdn.com/dms/image/D5603AQE5RkpystZXtg/profile-displayphoto-shrink_400_400/0/1670291565067?e=1699488000&v=beta&t=h1LQKeOTaxpMg0hugb73gymlk8pDuyQn7GHdPPyG0bE"
+    }
+  ]
+}

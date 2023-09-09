@@ -16,7 +16,7 @@ const Company = ({ directionLeft, source, status, name }) => {
         />
         <div className='absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-16 w-16 md:w-28 md:h-28 xl:w-32 xl:h-32 rounded-full z-0'>
             <div className='flex items-center justify-center h-full'>
-                <p className='text-base md:text-3xl font-bold text-black opacity-100 flex flex-col items-center'>
+                <p className='text-base md:text-xl font-bold text-black opacity-100 flex flex-col items-center'>
                     {/* {status ? "Alumni" : "Partner"} */}
                     {name}
                     {/* <span className='text-sm md:text-xl font-normal text-gray-500' >{name}</span> */}
