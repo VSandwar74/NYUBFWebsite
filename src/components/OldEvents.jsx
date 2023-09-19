@@ -15,8 +15,8 @@ const OldEvents = () => {
             Past Events
         </h3>
 
-        <div className='w-full text-sm md:text-lg text-center items-center md:mt-6'>
-            <ul>
+        {/* <div className='w-full text-sm md:text-lg text-center items-center md:mt-6'>
+            <ul className=''>
                 <li>Blockchain & Fintech Bootcamp</li>
                 <li>KlimaDAO: Fighting Climate Change through DeFi</li>
                 <li>Electric Capital: VC in Web3</li>
@@ -34,12 +34,12 @@ const OldEvents = () => {
                 <li>Marcum LLP: Essentials of Crypto Accounting</li>
                 <li>CertiK: Foundations of Smart Contract Security</li>
             </ul>
-        </div>
+        </div> */}
 
-        {/* <div className='relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scrollbar-thin scrollbar-track-white/20 scrollbar-thumb-[#F7AB0A]/80'> */}
-            {/* {oldevents.events.map((event, i) => (
+        <div className='relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scrollbar-thin scrollbar-track-white/20 scrollbar-thumb-[#F7AB0A]/80'> */}
+            {oldevents.events.map((event, i) => (
                 <div className='w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center py-20 px-5 md:px-20 md:p-44 h-screen' key={i}>
-                    <motion.img 
+                    {/* <motion.img 
                         initial={{
                             y: -300,
                             opacity: 0,
@@ -50,24 +50,24 @@ const OldEvents = () => {
                         className='h-1/4 md:h-1/2'
                         src={event.image} 
                         alt='NYU BnF Event'
-                        />
+                        /> */}
 
                     <div className='md:space-y-10 px-0 md:px-10 max-w-6xl'>
                         <h4 className='text-lg md:text-4xl font-semibold text-center flex flex-col'>
                             <span className='underline decoration-gray-500/50'>
-                                {event.name}
+                                {event.title}
                             </span>{" "}
-                            <span className='text-base md:text-2xl font-normal italic'>
+                            {/* <span className='text-base md:text-2xl font-normal italic'>
                                 {event.date}
-                            </span>
+                            </span> */}
                         </h4>
                         <p className='text-sm md:text-lg text-center md:text-left'>
                             {event.description}
                         </p>
                     </div>
                 </div>
-            ))} */}
-        {/* </div> */}
+            ))}
+        </div>
 
         {/* <div className='w-full absolute top-[30%] bg-[#F7AB0A]/10 left-0 h-[500px] -skew-y-12'/> */}
     </motion.div>

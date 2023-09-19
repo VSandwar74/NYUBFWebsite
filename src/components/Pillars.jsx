@@ -12,7 +12,11 @@ const Pillars = () => {
         <div className="flex flex-col items-center justify-center md:justify-around h-screen">
             <h3 className='uppercase tracking-[5px] md:tracking-[20px] text-white text-lg md:text-2xl'>Our Programs</h3>
                 <div className='flex flex-row flex-wrap space-x-2 md-space-x-6 min-h-[80%] justify-around'>
-                    <div className='w-[20%] h-full bg-[white]/10 rounded-xl p-2 px-4 text-sm'>
+                    <div className='w-[20%] h-full bg-[white]/10 rounded-xl p-2 px-4 text-sm flex flex-col items-center'>
+                        <img
+                            src='src/assets/pics/investments icon.png'
+                            className='w-8'
+                        />
                         <h3 className='text-center top-36 uppercase w-4/5 md:w-full tracking-[3px] text-white text-sm'>
                             Investments
                         </h3>
@@ -23,7 +27,11 @@ const Pillars = () => {
                             <li>This semester (F23’), we’re proud to announce that we will be partnering with Collab+Currency and Origin Protocol to take on two projects: acting as investment analysts and governance participants. We will have over $100k+ assets under management for this semester, providing our members with real-world experience in valuating, trading, DeFi yield farming, and beyond. </li>
                         </ul>
                     </div>
-                    <div className='w-[20%] h-full bg-[white]/10 rounded-xl p-2 px-4 text-sm'>
+                    <div className='w-[20%] h-full bg-[white]/10 rounded-xl p-2 px-4 text-sm flex flex-col items-center'>
+                        <img
+                            src='src/assets/pics/consulting icon.png'
+                            className='w-8'
+                        />
                         <h3 className='text-center top-36 uppercase w-4/5 md:w-full tracking-[3px] text-white text-sm'>
                             Consulting
                         </h3>
@@ -34,7 +42,11 @@ const Pillars = () => {
                             <li>This semester (F23’), we’re proud to announce our partnership with Ava Labs!</li>
                         </ul>
                     </div>
-                    <div className='w-[20%] h-full bg-[white]/10 rounded-xl p-2 px-4 text-sm'>
+                    <div className='w-[20%] h-full bg-[white]/10 rounded-xl p-2 px-4 text-sm flex flex-col items-center'>
+                        <img
+                            src='src/assets/pics/dev icon.png'
+                            className='w-8'
+                        />
                         <h3 className='text-center top-36 uppercase w-4/5 md:w-full tracking-[3px] text-white text-sm'>
                             Development
                         </h3>
@@ -45,7 +57,11 @@ const Pillars = () => {
                             <li>This semester (F23’), we will be developing a decentralized application (dApp) on Coinbase’s highly anticipated L2 – Base! We will be building a protocol to host poker games and tournaments in a decentralized manner, mitigating the risk of privacy infringement, ensuring transparency across financial transactions, and removing the need for KYC, a process of customer identification by financial institutions. We are excited about what’s to come, and we aim to keep you posted through the entire development process! </li>
                         </ul>
                     </div>
-                    <div className='w-[20%] h-full bg-[white]/10 rounded-xl p-2 px-4 text-sm'>
+                    <div className='w-[20%] h-full bg-[white]/10 rounded-xl p-2 px-4 text-sm flex flex-col items-center'>
+                        <img
+                            src='src/assets/pics/mentorship icon.png'
+                            className='w-8'
+                        />
                         <h3 className='text-center top-36 uppercase w-4/5 md:w-full tracking-[3px] text-white text-sm'>
                             Mentorship
                         </h3>

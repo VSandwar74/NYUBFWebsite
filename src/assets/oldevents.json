@@ -1,23 +1,84 @@
 {
-    "events": [
-      {
-        "name": "First Event",
-        "date": "9/11/23",
-        "image": "https://static.wixstatic.com/media/fab7e0_f8210d51362447ac87cc116b08c9840e~mv2.jpg/v1/fill/w_392,h_365,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fab7e0_f8210d51362447ac87cc116b08c9840e~mv2.jpg",
-        "description": "Get hype!"
-      },
-      {
-        "name": "NFT Drop",
-        "date": "May 10, 2022",
-        "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
-        "description": "Drop went hard."
-      },
-      {
-        "name": "BnF Social",
-        "date": "Sep 3rd, 2023",
-        "image": "https://media.licdn.com/dms/image/C5603AQELdqIH8XWF4w/profile-displayphoto-shrink_800_800/0/1638469785485?e=1687392000&v=beta&t=Y0GjnZqIDhYwKdXsH9BWZ9WEMxFXj6aa0O1-eb-2O9M",
-        "description": "Cool lil social."
-      }
-    ]
-  }
-  
+  "events": [
+    {
+      "title": "Blockchain & Fintech Bootcamp",
+      "description": "An intensive bootcamp covering blockchain technology and its applications in the fintech industry.",
+      "image": ""
+    },
+    {
+      "title": "KlimaDAO: Fighting Climate Change through DeFi",
+      "description": "Exploring how decentralized finance (DeFi) can be used to combat climate change through initiatives like KlimaDAO.",
+      "image": ""
+    },
+    {
+      "title": "Electric Capital: VC in Web3",
+      "description": "Understanding venture capital (VC) investments in the Web3 space, focusing on blockchain and decentralized technologies.",
+      "image": ""
+    },
+    {
+      "title": "Women in Web3 & Fintech",
+      "description": "Highlighting the contributions and experiences of women in the Web3 and fintech sectors.",
+      "image": ""
+    },
+    {
+      "title": "An Introduction to Cryptoderivatives",
+      "description": "A primer on cryptocurrency derivatives and their role in the digital asset markets.",
+      "image": ""
+    },
+    {
+      "title": "Harmonic Chain: Crypto & Regulation",
+      "description": "Examining the regulatory aspects of cryptocurrencies and their impact on the Harmonic Chain ecosystem.",
+      "image": ""
+    },
+    {
+      "title": "Binance Academy: DeFi on Binance",
+      "description": "Exploring decentralized finance (DeFi) projects and opportunities within the Binance ecosystem.",
+      "image": ""
+    },
+    {
+      "title": "The Ethics of Web3",
+      "description": "Discussing ethical considerations and challenges in the development and adoption of Web3 technologies.",
+      "image": ""
+    },
+    {
+      "title": "B&F Capstone",
+      "description": "The culmination of the Blockchain & Fintech program, involving a comprehensive capstone project.",
+      "image": ""
+    },
+    {
+      "title": "Fundamentals of Blockchain & Fintech",
+      "description": "A foundational course covering the basics of blockchain technology and its applications in fintech.",
+      "image": ""
+    },
+    {
+      "title": "Curve, Gammaswap, Gamma Strategies, Premia Finance: A Tour of DeFi",
+      "description": "Taking a tour of various DeFi platforms and strategies, including Curve, Gammaswap, and Premia Finance.",
+      "image": ""
+    },
+    {
+      "title": "The Political Economy of Crypto & Libertarian Philosophy",
+      "description": "Exploring the political and economic implications of cryptocurrencies and their connection to libertarian philosophy.",
+      "image": ""
+    },
+    {
+      "title": "An Introduction to Zero-Knowledge Proofs",
+      "description": "Introducing the concept of zero-knowledge proofs and their applications in blockchain and cryptography.",
+      "image": ""
+    },
+    {
+      "title": "dYdX: An Introduction to Perpetual Futures",
+      "description": "Learning about perpetual futures contracts and their role in cryptocurrency trading on the dYdX platform.",
+      "image": ""
+    },
+    {
+      "title": "Marcum LLP: Essentials of Crypto Accounting",
+      "description": "Covering the essential principles and practices of accounting for cryptocurrencies, offered by Marcum LLP.",
+      "image": ""
+    },
+    {
+      "title": "CertiK: Foundations of Smart Contract Security",
+      "description": "Building a solid understanding of smart contract security fundamentals with CertiK's course.",
+      "image": ""
+    }
+  ]
+}
