@@ -79,6 +79,11 @@
       "title": "CertiK: Foundations of Smart Contract Security",
       "description": "Building a solid understanding of smart contract security fundamentals with CertiK's course.",
       "image": ""
+    },
+    {
+      "title": "EY & Deloitte: Blockchain for Businesses",
+      "description": "Understanding the fundamentals of enterprise use cases for blockchain technology, and the world of blockchain consulting.",
+      "image": "src/assets/pics/Deloitte-Emblem.png"
     }
   ]
 }
