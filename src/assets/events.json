@@ -1,12 +1,6 @@
 {
     "events": [
       {
-        "name": "Blockchain Consulting 101 with EY & Deloitte",
-        "date": "9/11/23",
-        "image": "https://assets.deloitte.com/is/image/deloitte/Deloitte:1200-x-627",
-        "description": "This Monday, 9/11, we’re exploring how modern business problems might require blockchain-based and decentralized solutions! We’re fortunate to have Adarsh Ramesh Nair from Deloitte’s Blockchain & Digital Assets team, and KC Pyon, a Senior Manager from EY’s Digital Assets team, to speak about their experiences and perspectives within the web3 industry. "
-      },
-      {
         "name": "Mentorship and Team Applications Drop",
         "date": "Early September",
         "image": "https://seanbalakhanei.me/resources/headshot_red_tie.jpg",
