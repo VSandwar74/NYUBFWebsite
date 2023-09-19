@@ -36,7 +36,7 @@ const OldEvents = () => {
             </ul>
         </div> */}
 
-        <div className='relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scrollbar-thin scrollbar-track-white/20 scrollbar-thumb-[#F7AB0A]/80'> */}
+        <div className='relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scrollbar-thin scrollbar-track-white/20 scrollbar-thumb-[#F7AB0A]/80'> 
             {oldevents.events.map((event, i) => (
                 <div className='w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center py-20 px-5 md:px-20 md:p-44 h-screen' key={i}>
                     {/* <motion.img 
