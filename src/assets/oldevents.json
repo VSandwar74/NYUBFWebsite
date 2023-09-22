@@ -1,73 +1,13 @@
 {
-  "events": [
+  "events": [ 
     {
-      "title": "Blockchain & Fintech Bootcamp",
-      "description": "An intensive bootcamp covering blockchain technology and its applications in the fintech industry.",
+      "title": "EY & Deloitte: Enterprise Use Cases of Blockchain Technology",
+      "description": "Exploring how consulting firms are solving modern business problems with decentralized and web3 technology",
       "image": ""
     },
     {
-      "title": "KlimaDAO: Fighting Climate Change through DeFi",
-      "description": "Exploring how decentralized finance (DeFi) can be used to combat climate change through initiatives like KlimaDAO.",
-      "image": ""
-    },
-    {
-      "title": "Electric Capital: VC in Web3",
-      "description": "Understanding venture capital (VC) investments in the Web3 space, focusing on blockchain and decentralized technologies.",
-      "image": ""
-    },
-    {
-      "title": "Women in Web3 & Fintech",
-      "description": "Highlighting the contributions and experiences of women in the Web3 and fintech sectors.",
-      "image": ""
-    },
-    {
-      "title": "An Introduction to Cryptoderivatives",
-      "description": "A primer on cryptocurrency derivatives and their role in the digital asset markets.",
-      "image": ""
-    },
-    {
-      "title": "Harmonic Chain: Crypto & Regulation",
-      "description": "Examining the regulatory aspects of cryptocurrencies and their impact on the Harmonic Chain ecosystem.",
-      "image": ""
-    },
-    {
-      "title": "Binance Academy: DeFi on Binance",
-      "description": "Exploring decentralized finance (DeFi) projects and opportunities within the Binance ecosystem.",
-      "image": ""
-    },
-    {
-      "title": "The Ethics of Web3",
-      "description": "Discussing ethical considerations and challenges in the development and adoption of Web3 technologies.",
-      "image": ""
-    },
-    {
-      "title": "B&F Capstone",
-      "description": "The culmination of the Blockchain & Fintech program, involving a comprehensive capstone project.",
-      "image": ""
-    },
-    {
-      "title": "Fundamentals of Blockchain & Fintech",
-      "description": "A foundational course covering the basics of blockchain technology and its applications in fintech.",
-      "image": ""
-    },
-    {
-      "title": "Curve, Gammaswap, Gamma Strategies, Premia Finance: A Tour of DeFi",
-      "description": "Taking a tour of various DeFi platforms and strategies, including Curve, Gammaswap, and Premia Finance.",
-      "image": ""
-    },
-    {
-      "title": "The Political Economy of Crypto & Libertarian Philosophy",
-      "description": "Exploring the political and economic implications of cryptocurrencies and their connection to libertarian philosophy.",
-      "image": ""
-    },
-    {
-      "title": "An Introduction to Zero-Knowledge Proofs",
-      "description": "Introducing the concept of zero-knowledge proofs and their applications in blockchain and cryptography.",
-      "image": ""
-    },
-    {
-      "title": "dYdX: An Introduction to Perpetual Futures",
-      "description": "Learning about perpetual futures contracts and their role in cryptocurrency trading on the dYdX platform.",
+      "title": "CertiK: Foundations of Smart Contract Security",
+      "description": "Building a solid understanding of smart contract security fundamentals with CertiK's course.",
       "image": ""
     },
     {
@@ -76,8 +16,73 @@
       "image": ""
     },
     {
-      "title": "CertiK: Foundations of Smart Contract Security",
-      "description": "Building a solid understanding of smart contract security fundamentals with CertiK's course.",
+      "title": "dYdX: An Introduction to Perpetual Futures",
+      "description": "Learning about perpetual futures contracts and their role in cryptocurrency trading on the dYdX platform.",
+      "image": ""
+    },
+    {
+      "title": "An Introduction to Zero-Knowledge Proofs",
+      "description": "Introducing the concept of zero-knowledge proofs and their applications in blockchain and cryptography.",
+      "image": ""
+    },
+    {
+      "title": "The Political Economy of Crypto & Libertarian Philosophy",
+      "description": "Exploring the political and economic implications of cryptocurrencies and their connection to libertarian philosophy.",
+      "image": ""
+    },
+    {
+      "title": "Curve, Gammaswap, Gamma Strategies, Premia Finance: A Tour of DeFi",
+      "description": "Taking a tour of various DeFi platforms and strategies, including Curve, Gammaswap, and Premia Finance.",
+      "image": ""
+    },
+    {
+      "title": "Fundamentals of Blockchain & Fintech",
+      "description": "A foundational course covering the basics of blockchain technology and its applications in fintech.",
+      "image": ""
+    },
+    {
+      "title": "B&F Capstone",
+      "description": "The culmination of the Blockchain & Fintech program, involving a comprehensive capstone project.",
+      "image": ""
+    },
+    {
+      "title": "The Ethics of Web3",
+      "description": "Discussing ethical considerations and challenges in the development and adoption of Web3 technologies.",
+      "image": ""
+    },
+    {
+      "title": "Binance Academy: DeFi on Binance",
+      "description": "Exploring decentralized finance (DeFi) projects and opportunities within the Binance ecosystem.",
+      "image": ""
+    },
+    {
+      "title": "Harmonic Chain: Crypto & Regulation",
+      "description": "Examining the regulatory aspects of cryptocurrencies and their impact on the Harmonic Chain ecosystem.",
+      "image": ""
+    },
+    {
+      "title": "An Introduction to Cryptoderivatives",
+      "description": "A primer on cryptocurrency derivatives and their role in the digital asset markets.",
+      "image": ""
+    },
+    {
+      "title": "Women in Web3 & Fintech",
+      "description": "Highlighting the contributions and experiences of women in the Web3 and fintech sectors.",
+      "image": ""
+    },
+    {
+      "title": "Electric Capital: VC in Web3",
+      "description": "Understanding venture capital (VC) investments in the Web3 space, focusing on blockchain and decentralized technologies.",
+      "image": ""
+    },
+    {
+      "title": "KlimaDAO: Fighting Climate Change through DeFi",
+      "description": "Exploring how decentralized finance (DeFi) can be used to combat climate change through initiatives like KlimaDAO.",
+      "image": ""
+    },
+    {
+      "title": "Blockchain & Fintech Bootcamp",
+      "description": "An intensive bootcamp covering blockchain technology and its applications in the fintech industry.",
       "image": ""
     }
   ]
